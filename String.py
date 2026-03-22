@@ -15,6 +15,6 @@ print("Hi I am Good \\How are you")
 
 
 a = "DSA in Python"
-print(a.replace("Python", "Java"))
+print(a.replace("Python", "DSA"))
 
-print("in" in a)
+print("in" in a);
